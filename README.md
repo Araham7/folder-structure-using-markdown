@@ -1,3 +1,73 @@
+`Markdown Cheat Sheet`
+
+# 1. Headings
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+# 2. Text Formatting
+**Bold Text** or __Bold Text__
+*Italic Text* or _Italic Text_
+~~Strikethrough Text~~
+
+# 3. Lists
+
+## Unordered List:
+- Item 1
+- Item 2
+  - Sub-item 2.1
+
+## Ordered List:
+1. First item
+2. Second item
+   1. Sub-item 2.1
+
+# 4.  Links and Images
+## Link:
+[Google](https://www.google.com)
+
+## Image:
+![Alt Text](https://example.com/image.png)
+
+# 5. Code
+## Inline Code:
+Use `print("Hello World")` in Python.
+
+## Code Block:
+```python
+def hello():
+    print("Hello, Markdown!")
+```
+
+# 6. Blockquotes
+
+> This is a blockquote.
+> It can span multiple lines.
+
+# 7. Horizontal Rule(`---`)
+---
+
+# 8. Tables
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data     | Data     |
+| Row 2    | Data     | Data     |
+
+# 9. Task Lists
+- [x] Task 1 (completed)
+- [ ] Task 2 (pending)
+
+
+# 10. Escaping Characters
+
+Use \* to display an asterisk.
+
+# 11. file structure
+
 ```
 my-express-socketio-server/
 │
